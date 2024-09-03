@@ -9,6 +9,11 @@
     font-style: normal;
 }
 
+.navBar {
+    display: flex;
+    flex-direction: row;
+}
+
 .subhead {
     font-size: 40px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -33,6 +38,7 @@ p {
     color: aquamarine;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline solid black;
     display: flex;
 }
 
